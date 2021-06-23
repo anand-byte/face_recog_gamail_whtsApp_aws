@@ -1,1 +1,1 @@
-# face_recog_gamail_whtsApp_aws
+# face_recog_gmail_whtsApp_aws
